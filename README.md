@@ -1,19 +1,16 @@
-# Rocketpay
+# RocketPay
 
-To start your Phoenix server:
+RocketPay é um projeto da semana NLW 4, feito pela [Rocketseat](https://rocketseat.com.br)!
+<br/>
+O RocketPay é uma API de transação, deposito, saque de dinheiro. Claro esse projeto não está no ar!
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+## Como posso testar o seu projeto
+  * clone o repositório
+  ```sh
+    git clone https://github.com/Miguel-Coruj/NLW-4.git
+  ```
+  * abra a pasta e execute o comando no seu terminal
+  ```sh
+    cd ./NLW-4
+    mix phx.server
+  ```
